@@ -1,0 +1,15 @@
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.exe
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.deps.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.runtimeconfig.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfoInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfo.cs
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.sourcelink.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\refint\ProjetoMusical.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.genruntimeconfig.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ProjetoMusical\obj\Debug\net8.0\ref\ProjetoMusical.dll

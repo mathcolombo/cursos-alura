@@ -1,0 +1,15 @@
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\bin\Debug\net8.0\ScreenSound.exe
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\bin\Debug\net8.0\ScreenSound.deps.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\bin\Debug\net8.0\ScreenSound.runtimeconfig.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\bin\Debug\net8.0\ScreenSound.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\bin\Debug\net8.0\ScreenSound.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfo.cs
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.sourcelink.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\refint\ScreenSound.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll

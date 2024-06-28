@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Podcast
-build_property.ProjectDir = C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\
+build_property.ProjectDir = c:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

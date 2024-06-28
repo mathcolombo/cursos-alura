@@ -1,0 +1,15 @@
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\bin\Debug\net8.0\PetShop.exe
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\bin\Debug\net8.0\PetShop.deps.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\bin\Debug\net8.0\PetShop.runtimeconfig.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\bin\Debug\net8.0\PetShop.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\bin\Debug\net8.0\PetShop.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.AssemblyInfo.cs
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.sourcelink.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\refint\PetShop.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\PetShop.genruntimeconfig.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\PetShop\obj\Debug\net8.0\ref\PetShop.dll

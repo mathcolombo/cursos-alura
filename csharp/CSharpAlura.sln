@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcast", "Podcast\Podcast.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{46F6DED7-4348-4D63-904E-7A05987111B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop", "PetShop\PetShop.csproj", "{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{46F6DED7-4348-4D63-904E-7A05987111B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46F6DED7-4348-4D63-904E-7A05987111B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46F6DED7-4348-4D63-904E-7A05987111B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

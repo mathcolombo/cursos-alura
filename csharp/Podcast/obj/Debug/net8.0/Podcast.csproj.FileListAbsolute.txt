@@ -1,0 +1,15 @@
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\bin\Debug\net8.0\Podcast.exe
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\bin\Debug\net8.0\Podcast.deps.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\bin\Debug\net8.0\Podcast.runtimeconfig.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\bin\Debug\net8.0\Podcast.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\bin\Debug\net8.0\Podcast.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.AssemblyInfoInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.AssemblyInfo.cs
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.csproj.CoreCompileInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.sourcelink.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\refint\Podcast.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\Podcast.genruntimeconfig.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\Podcast\obj\Debug\net8.0\ref\Podcast.dll

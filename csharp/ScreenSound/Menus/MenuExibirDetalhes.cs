@@ -2,19 +2,12 @@ using ScreenSound.Modelos;
 
 namespace ScreenSound.Menus;
 
-internal class MenuExibirDetalhes
+internal class MenuExibirDetalhes : Menu
 {
-    public void ExibirTituloDaOpcao(string titulo)
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
-        int quantidadeDeLetras = titulo.Length;
-        string asteriscos = string.Empty.PadLeft(quantidadeDeLetras, '*');
-        Console.WriteLine(asteriscos);
-        Console.WriteLine(titulo);
-        Console.WriteLine(asteriscos + "\n");
-    }
-    public void Executar(Dictionary<string, Banda> bandasRegistradas)
-    {
-        Console.Clear();
+        base.Executar(bandasRegistradas);
+
         ExibirTituloDaOpcao("Exibir detalhes da banda");
         Console.Write("Digite o nome da banda que deseja conhecer melhor: ");
         string nomeDaBanda = Console.ReadLine()!;

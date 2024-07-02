@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "bYLuIQ38H6mhBwDuB4othItUNW6zFu4oPwd9Tw8RbFRVM5RbVgUSRHCW/vyVJA5BCXiwzzOSALRUsMDBiTM/Qg==",
+  "dgSpecHash": "DYcDNRu4/Uki9glENCvO/Xy9ZG4NyEKdN/nQw0Sz8ujNnREv8Vkx7iIPWlbFSgeMP+c9SG3SetIiDPPjEzeKkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\ScreenSound\\ScreenSound.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.http\\2.1.0\\microsoft.extensions.http.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\openai\\1.11.0\\openai.1.11.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\matheus.colombo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

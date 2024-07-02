@@ -1,5 +1,8 @@
 ﻿using ScreenSound.Menus;
 using ScreenSound.Modelos;
+using OpenAI_API;
+
+var client = new OpenAIAPI();
 
 internal class Program
 {
@@ -10,6 +13,8 @@ internal class Program
         ira.AdicionarNota(new Avaliacao(10));
         ira.AdicionarNota(new Avaliacao(8));
         ira.AdicionarNota(new Avaliacao(6));
+        ira.AdicionarAlbum(new Album("Teste"));
+        ira.AdicionarAlbum(new Album("Ja Testado"));
         Banda beatles = new("The Beatles");
 
         Dictionary<string, Banda> bandasRegistradas = new();
@@ -21,7 +26,9 @@ internal class Program
         opcoes.Add(2, new MenuRegistrarAlbum());
         opcoes.Add(3, new MenuMostrarBandas());
         opcoes.Add(4, new MenuAvaliarBanda());
-        opcoes.Add(5, new MenuExibirDetalhes());
+        opcoes.Add(5, new MenuAvaliarAlbum());
+        opcoes.Add(6, new MenuAvaliarMusica());
+        opcoes.Add(7, new MenuExibirDetalhes());
         opcoes.Add(-1, new MenuSair());
 
         void ExibirLogo()
@@ -45,7 +52,9 @@ internal class Program
             Console.WriteLine("Digite 2 para registrar o álbum de uma banda");
             Console.WriteLine("Digite 3 para mostrar todas as bandas");
             Console.WriteLine("Digite 4 para avaliar uma banda");
-            Console.WriteLine("Digite 5 para exibir os detalhes de uma banda");
+            Console.WriteLine("Digite 5 para avaliar um álbum");
+            Console.WriteLine("Digite 6 para avaliar uma música");
+            Console.WriteLine("Digite 7 para exibir os detalhes de uma banda");
             Console.WriteLine("Digite -1 para sair");
 
             Console.Write("\nDigite a sua opção: ");
@@ -56,18 +65,11 @@ internal class Program
             {
                 menu = opcoes[opcaoEscolhidaNumerica];
                 menu.Executar(bandasRegistradas);
+                if(opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
             }
             else Console.WriteLine("Opção inválida");
         }
 
-        void ExibirTituloDaOpcao(string titulo)
-        {
-            int quantidadeDeLetras = titulo.Length;
-            string asteriscos = string.Empty.PadLeft(quantidadeDeLetras, '*');
-            Console.WriteLine(asteriscos);
-            Console.WriteLine(titulo);
-            Console.WriteLine(asteriscos + "\n");
-        }
         ExibirOpcoesDoMenu();
     }
 }

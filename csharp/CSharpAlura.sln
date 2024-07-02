@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop", "PetShop\PetShop.csproj", "{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormaGeometrica", "FormaGeometrica\FormaGeometrica.csproj", "{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FA7A431-A961-4087-BAB5-5EC4E0CFE6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

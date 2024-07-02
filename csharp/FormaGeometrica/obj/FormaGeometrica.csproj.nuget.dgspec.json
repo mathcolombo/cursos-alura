@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\FormaGeometrica\\FormaGeometrica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\FormaGeometrica\\FormaGeometrica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\ScreenSound\\ScreenSound.csproj",
-        "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\FormaGeometrica\\FormaGeometrica.csproj",
+        "projectName": "FormaGeometrica",
+        "projectPath": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\FormaGeometrica\\FormaGeometrica.csproj",
         "packagesPath": "C:\\Users\\matheus.colombo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\ScreenSound\\obj\\",
+        "outputPath": "C:\\Users\\matheus.colombo\\Documents\\cursos-alura\\csharp\\FormaGeometrica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matheus.colombo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "OpenAI": {
-              "target": "Package",
-              "version": "[1.11.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

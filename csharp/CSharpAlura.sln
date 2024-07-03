@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop", "PetShop\PetShop.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormaGeometrica", "FormaGeometrica\FormaGeometrica.csproj", "{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundRemastered", "ScreenSoundRemastered\ScreenSoundRemastered.csproj", "{14017CBA-0020-4963-9280-AA534E56EEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadosAPIS", "DadosAPIS\DadosAPIS.csproj", "{79F707F5-3310-4574-B99F-2FA2F18D1797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211BD0BD-0A89-41CB-A844-F8ED59BF2E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14017CBA-0020-4963-9280-AA534E56EEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14017CBA-0020-4963-9280-AA534E56EEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14017CBA-0020-4963-9280-AA534E56EEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14017CBA-0020-4963-9280-AA534E56EEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F707F5-3310-4574-B99F-2FA2F18D1797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F707F5-3310-4574-B99F-2FA2F18D1797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F707F5-3310-4574-B99F-2FA2F18D1797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F707F5-3310-4574-B99F-2FA2F18D1797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

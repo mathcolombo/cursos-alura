@@ -2,12 +2,12 @@
 using ScreenSound.Modelos;
 using OpenAI_API;
 
-var client = new OpenAIAPI();
-
 internal class Program
 {
     private static void Main(String[] Args)
     {
+
+        var client = new OpenAIAPI();
 
         Banda ira = new Banda("Ira!");
         ira.AdicionarNota(new Avaliacao(10));

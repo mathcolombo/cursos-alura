@@ -1,0 +1,15 @@
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\bin\Debug\net8.0\DadosAPIS.exe
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\bin\Debug\net8.0\DadosAPIS.deps.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\bin\Debug\net8.0\DadosAPIS.runtimeconfig.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\bin\Debug\net8.0\DadosAPIS.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\bin\Debug\net8.0\DadosAPIS.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.AssemblyInfoInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.AssemblyInfo.cs
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.csproj.CoreCompileInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.sourcelink.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\refint\DadosAPIS.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\DadosAPIS.genruntimeconfig.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\DadosAPIS\obj\Debug\net8.0\ref\DadosAPIS.dll

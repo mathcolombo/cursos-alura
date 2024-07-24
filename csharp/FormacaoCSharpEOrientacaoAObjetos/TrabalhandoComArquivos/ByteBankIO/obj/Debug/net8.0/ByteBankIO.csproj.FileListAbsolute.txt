@@ -1,0 +1,15 @@
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\bin\Debug\net8.0\ByteBankIO.exe
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\bin\Debug\net8.0\ByteBankIO.deps.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\bin\Debug\net8.0\ByteBankIO.runtimeconfig.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\bin\Debug\net8.0\ByteBankIO.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\bin\Debug\net8.0\ByteBankIO.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.AssemblyInfoInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.AssemblyInfo.cs
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.csproj.CoreCompileInputs.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.sourcelink.json
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\refint\ByteBankIO.dll
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.pdb
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ByteBankIO.genruntimeconfig.cache
+C:\Users\matheus.colombo\Documents\cursos-alura\csharp\FormacaoCSharpEOrientacaoAObjetos\TrabalhandoComArquivos\ByteBankIO\obj\Debug\net8.0\ref\ByteBankIO.dll

@@ -1,4 +1,4 @@
-namespace ByteBankIO
+namespace ByteBankIO.Models
 
 {
     public class ContaCorrente
